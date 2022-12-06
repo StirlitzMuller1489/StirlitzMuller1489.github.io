@@ -6,7 +6,7 @@
     text-decoration: none !important;
     background-color: #eaeaea !important;
     color: #006089 !important;
-    border: 0px solid #006089 !important;
+    border: 4px solid #006089 !important;
     border-radius: 7px !important;
     font-size: 53px !important;
     padding: 5px 17px !important; 
@@ -20,7 +20,7 @@
 }
 </style>
 <a href="https://stirlitzmuller1489.github.io/" class="button_1670312305034" target="_blank">
-  САЙТ
+  РЕПОЗИТОРИЙ
 </a>
 
 # Два еврея хотят попасть в Англию из Парижа, подходят к пилоту, один из них говорит:
