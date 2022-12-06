@@ -80,4 +80,10 @@ graph TD
     C --> D[Тупой]
     C ---> E[Еще тупее]
     C ----> F[Окружающий мир, природа и искусство]
-    
+```
+![image](https://user-images.githubusercontent.com/114472400/205867761-af4a4b39-75e9-421b-8c80-c3244f50ea24.png)
+![image](https://user-images.githubusercontent.com/114472400/205867846-2d0ddba2-3c92-4235-bcc7-13aa2024cafe.png)
+![image](https://user-images.githubusercontent.com/114472400/205867980-24160cc6-da73-43cb-8631-270625c4181e.png)
+![image](https://user-images.githubusercontent.com/114472400/205868051-82a323b4-77f9-40bd-8a0d-8071c96ba820.png)
+
+  
