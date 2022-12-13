@@ -1,5 +1,9 @@
 # StirlitzMuller1489.github.io
-
+<style>
+.nav div {
+    display: inline-block;
+}
+</style>
 ![Unknown](https://user-images.githubusercontent.com/114472400/207257825-a34e5f3b-cb08-4a6e-b465-684a18980120.jpeg)
 
 <!--Dayspedia.com widget--><div class="DPDC" cityid="5720" lang="ru" id="dayspedia_widget_7bf2d5002f9a3f27" host="https://dayspedia.com" ampm="false" nightsign="true" sun="true" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-9.png&quot;); border-color: rgb(255, 255, 255); border-width: 0px; width: auto;">
