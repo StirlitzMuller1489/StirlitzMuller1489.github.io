@@ -52,7 +52,7 @@
 
 ```mermaid
 flowchart LR
-a[Мильке Евгений]
+a[Мильке Евгений. ]
 ```
 
 ```mermaid
