@@ -1,4 +1,6 @@
 # StirlitzMuller1489.github.io
+![mermaid-diagram-2022-12-20-151031](https://user-images.githubusercontent.com/114472400/208616294-62ceb37d-90cd-40a4-b440-e9b614d7e156.png)
+
 <style>
 .nav div {
     display: inline-block;
